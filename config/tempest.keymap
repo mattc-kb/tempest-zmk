@@ -77,12 +77,6 @@
             layers = <0>;
         };
 
-        combo_underscore {
-            bindings = <&kp UNDER>;
-            key-positions = <24 25>;
-            layers = <0>;
-        };
-
         combo_dash {
             bindings = <&kp MINUS>;
             key-positions = <3 2>;
